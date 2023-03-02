@@ -3,4 +3,4 @@ The goal of this project was to develop a C++-based computer programme that woul
 
 Click the highlighted blue line below to open the project:
 
-[Final Project of Introduction to Computing & Programming](https://replit.com/@AliAbbas69/Subway-Schedule-Board)
+[Final Project: Subway Schedule Board](https://replit.com/@AliAbbas69/Subway-Schedule-Board)
